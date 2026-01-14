@@ -1,5 +1,3 @@
-# Data-Analysis
-
 # Data Analysis – SNCF Case Study (Python)
 # French Trains Performance Analysis (Python)
 
